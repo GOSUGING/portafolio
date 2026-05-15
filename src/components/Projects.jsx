@@ -62,6 +62,17 @@ const PROJECTS = [
     github: 'https://github.com/GOSUGING/Viajes-chile',
     live: 'https://gosuging.github.io/Viajes-chile/',
   },
+  {
+    tag: '[HERO_DATABASE]',
+    name: 'Superhero App',
+    techs: ['React', 'Superhero API', 'Frontend Web'],
+    description:
+      'Aplicación web que consume la Superhero API para explorar y comparar héroes y villanos con sus estadísticas de poder.',
+    status: 'LIVE',
+    color: 'green',
+    github: 'https://github.com/GOSUGING/superhero',
+    live: 'https://gosuging.github.io/superhero/',
+  },
 ]
 
 const COLOR_MAP = {
