@@ -51,6 +51,17 @@ const PROJECTS = [
     github: 'https://github.com/GOSUGING/pokedex',
     live: 'https://gosuging.github.io/pokedex/',
   },
+  {
+    tag: '[GEO_EXPLORER]',
+    name: 'Viajes Chile',
+    techs: ['HTML', 'CSS', 'JavaScript', 'Frontend Web'],
+    description:
+      'Plataforma web orientada al turismo nacional, con exploración de destinos y atractivos turísticos de Chile.',
+    status: 'LIVE',
+    color: 'magenta',
+    github: 'https://github.com/GOSUGING/Viajes-chile',
+    live: 'https://gosuging.github.io/Viajes-chile/',
+  },
 ]
 
 const COLOR_MAP = {
