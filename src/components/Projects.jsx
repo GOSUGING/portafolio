@@ -40,6 +40,17 @@ const PROJECTS = [
     color: 'green',
     github: 'https://github.com/GOSUGING/ascarpa-web',
   },
+  {
+    tag: '[DATA_ARCHIVE]',
+    name: 'Pokédex',
+    techs: ['React', 'REST API', 'Frontend Web'],
+    description:
+      'Aplicación web interactiva que consume la PokéAPI para explorar y visualizar datos de Pokémon en tiempo real.',
+    status: 'LIVE',
+    color: 'cyan',
+    github: 'https://github.com/GOSUGING/pokedex',
+    live: 'https://gosuging.github.io/pokedex/',
+  },
 ]
 
 const COLOR_MAP = {
