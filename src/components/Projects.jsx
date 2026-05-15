@@ -39,6 +39,7 @@ const PROJECTS = [
     status: 'OPERATIONAL',
     color: 'green',
     github: 'https://github.com/GOSUGING/ascarpa-web',
+    live: 'https://www.ascarpa.cl',
   },
   {
     tag: '[DATA_ARCHIVE]',
