@@ -38,7 +38,7 @@ const PROJECTS = [
       'Configuración de plataforma de desarrollo de negocio con integraciones geográficas y optimización en motores de búsqueda.',
     status: 'OPERATIONAL',
     color: 'green',
-    github: 'https://github.com/GOSUGING',
+    github: 'https://github.com/GOSUGING/ascarpa-web',
   },
 ]
 
