@@ -8,6 +8,7 @@ const PROJECTS = [
     status: 'ACTIVE',
     color: 'green',
     github: 'https://github.com/GOSUGING/levelup-v3-s3-aws',
+    live: 'https://gosuging.github.io/levelup-v3-s3-aws/',
   },
   {
     tag: '[GOV_DATABASE]',
